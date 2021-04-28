@@ -1,2 +1,1 @@
-# sudoku-sudoking
-Portofolio - React-Native
+# sugoku
